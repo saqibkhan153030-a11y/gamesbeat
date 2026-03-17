@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
-
+// import "@fontsource/bangers";
 
 export default function HomeHero() {
   const images = [
